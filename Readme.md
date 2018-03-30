@@ -1,2 +1,2 @@
-This a README File 
-Here we will add all the informations.
+# OPENGL MINI PROJECT
+This is our OpenGl mini project.
