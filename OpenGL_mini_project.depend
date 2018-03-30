@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522410624 source:/Users/sooryagangarajk/Documents/SG_OpenGL/OpenGL_mini_project/main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
